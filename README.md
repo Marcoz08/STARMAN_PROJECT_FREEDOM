@@ -25,3 +25,9 @@ WE TOOK ADVANTAGE FO ALL THE CLUES THAT YOU GAVE US TO CREATE AN EFFICIENT AND C
  -DC Engine
  
  ![engine]( https://images.e-deala.com/200082/001.jpg)
+ 
+ 
+ 
+ # *MECHANISM*
+ 
+  ![MECHANISM]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpGAw2bQhmxmm2_GppIcOEf4ka_BFL2qWrg&usqp=CAU)
