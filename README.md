@@ -1,7 +1,8 @@
 # STARMAN_PROJECT_FREEDOM
 Repository to share the work of Let it go challange
 
-
+![Portada]
+(https://raw.github.com/Marcoz08/STARMAN_PROJECT_FREEDOM/blob/main/Website/Assembly_phase_2.png)
 
 
 # *INTRODUCTION*
