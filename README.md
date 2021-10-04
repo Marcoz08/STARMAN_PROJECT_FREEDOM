@@ -30,4 +30,4 @@ WE TOOK ADVANTAGE FO ALL THE CLUES THAT YOU GAVE US TO CREATE AN EFFICIENT AND C
  
  # *MECHANISM*
  
-  ![MECHANISM]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpGAw2bQhmxmm2_GppIcOEf4ka_BFL2qWrg&usqp=CAU)
+  ![MECHANISM](https://github.com/Marcoz08/STARMAN_PROJECT_FREEDOM/blob/main/Website/Captura%20de%20pantalla%20(119)2.png)
