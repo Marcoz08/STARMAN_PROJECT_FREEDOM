@@ -54,6 +54,10 @@ THIS SAME MECHANISM CAN BE USED IF WE NEED TO CONNECT TWO OR MORE THINGS. WITH A
  
  # *PROJECT ESPECIFICATIONS*
   
+  ![version b](https://github.com/Marcoz08/STARMAN_PROJECT_FREEDOM/blob/main/Website/WhatsApp%20Image%202021-10-03%20at%209.35.36%20PM.jpeg)
+ 
+  
+  
  # *VERSION B*
  This version is wider, but works as a demostration of how we can add screws to conections.
  
