@@ -47,7 +47,7 @@ WE USE A TITANIUM ALLOY AS THE CYLINDER MATERIAL BECAUSE THIS ELEMENT IS KNOWN F
 
 In the next link, you can view the 3D pieces, the Website has a wonderful tools to see the assambly in parts, show the inside of the device and make measurements.
 
-
+//////   https://grabcad.com/library/advanced-decoupling-system-ads-1  \\\\\\
 
 
 Model B, is a opcional device that includes screw holders
