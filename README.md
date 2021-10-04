@@ -4,7 +4,7 @@ Repository to share the work of Let it go challange
 
 
 
-*INTRODUCTION*
+#*INTRODUCTION*
 
 IN THIS PROPOSAL OUR PRIORITY WAS THE SIMPLICITY OF THE MECHANISM.
 
