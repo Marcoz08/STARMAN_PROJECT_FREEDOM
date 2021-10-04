@@ -50,6 +50,8 @@ In the next link, you can view the 3D pieces, the Website has a wonderful tools 
 //////   https://grabcad.com/library/advanced-decoupling-system-ads-1  \\\\\\
 
 
+
+
 Model B, is a opcional device that includes screw holders
 https://grabcad.com/library/advanced-decoupling-system-ads-model-b-1
 
