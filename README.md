@@ -84,8 +84,11 @@ HOW DO WE USE AZURE IN OUR PROJECT?
  THE FOLLOWING LINK TAKES YOU TO VIEW WHAT IOT INDUSTRIAL DE AZURE OFFERS TO OUR PROJECT.
 
 
-
   https://azure.microsoft.com/en-us/solutions/industry/manufacturing/iot/#overview
+  
+  
+  ![IOT AZURE](https://i0.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2018/02/IoT-Integration.png?resize=525%2C405&ssl=1)
+ 
 
  
  # *PROJECT ESPECIFICATIONS*
