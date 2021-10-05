@@ -76,6 +76,8 @@ SOMETHING AMAZING ABOUT OUR PROJECT IS ITS SCALABILITY, DESIGN AND THE SAME PRIN
  "It is simple, but efficient"
  
 
+  ![ESCALABRE]( https://github.com/Marcoz08/STARMAN_PROJECT_FREEDOM/blob/main/Website/El%20sistema%20es%20escalable.jpg)
+
 # *AZURE CLOUD SERVICES*
 
 HOW DO WE USE AZURE IN OUR PROJECT?
