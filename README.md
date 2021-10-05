@@ -13,16 +13,16 @@ WE TOOK ADVANTAGE FO ALL THE CLUES THAT YOU GAVE US TO CREATE AN EFFICIENT AND C
 
 # *MATERIALS*
 
- -Titanium
+ -TITANIUM
  
   ![titanium](https://www.masterlogistica.es/wp-content/uploads/2020/10/caracteristicas-del-titanio.jpg)
  
- -Spring
+ -SPRING
  
  ![spring]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpGAw2bQhmxmm2_GppIcOEf4ka_BFL2qWrg&usqp=CAU)
 
  
- -DC Engine
+ -DC ENGINE
  
  ![engine]( https://images.e-deala.com/200082/001.jpg)
  
@@ -45,14 +45,14 @@ WE USE A TITANIUM ALLOY AS THE CYLINDER MATERIAL BECAUSE THIS ELEMENT IS KNOWN F
 #  *3D MODELS* 
 
 
-In the next link, you can view the 3D pieces, the Website has a wonderful tools to see the assambly in parts, show the inside of the device and make measurements.
+IN THE NEXT LINK, YOU CAN VIEW THE 3D PIECES, THE WEBSITE HAS A WONDERFUL TOOLS TO SEE THE ASSAMBLY IN PARTS, SHOW THE INSIDE OF THE DEVICE AND MAKE MEASUREMENTS.
 
 //////   https://grabcad.com/library/advanced-decoupling-system-ads-1  \\\\\\
 
 
 
 
-Model B, is a opcional device that includes screw holders
+MODEL B, IS A OPCIONAL DEVICE THAT INCLUDES SCREW HOLDERS.
 https://grabcad.com/library/advanced-decoupling-system-ads-model-b-1
 
  # *PROPORTIONS*
@@ -65,6 +65,18 @@ THIS SAME MECHANISM CAN BE USED IF WE NEED TO CONNECT TWO OR MORE THINGS. WITH A
 
 
  
+
+# *AZURE CLOUD SERVICES*
+
+HOW DO WE USE AZURE IN OUR PROJECT?
+ THE PROPOSAL INCLUDES ADDING IN A FINAL VERSION A MICROCONTROLLER TO CONTROL THE ROTATION OF THE MOTOR, THE MICROCONTROLLER WOULD BE AN ESP32 WITH COMMUNICATION PROTOCOLS ON THE 2.4 GHZ BAND.  THIS MICRO WILL CONNECT TO THE NETWORK LINKING WITH THE MAIN COMPUTER OF THE SHIP.  THEN, THE GROUND MISSION CONTROL WILL BE ABLE TO EJECT THE PARTS USING THE DASHBOARD PROVIDED BY THE AZURE IOT HUB.
+
+ THE FOLLOWING LINK TAKES YOU TO VIEW WHAT IOT INDUSTRIAL DE AZURE OFFERS TO OUR PROJECT.
+
+
+
+  ! [version b] (https://azure.microsoft.com/en-us/solutions/industry/manufacturing/iot/#overview)
+
  
  # *PROJECT ESPECIFICATIONS*
   
