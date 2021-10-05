@@ -64,6 +64,10 @@ THIS SAME MECHANISM CAN BE USED IF WE NEED TO CONNECT TWO OR MORE THINGS. WITH A
 #  *WHAT MAKES OUR PROPOSAL A GREAT OPTION?* 
 
 
+ It is exactly the shape, weight and size that NASA requires.
+
+ In conclusion:
+ "It is simple, but efficient"
  
 
 # *AZURE CLOUD SERVICES*
