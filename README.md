@@ -75,7 +75,7 @@ HOW DO WE USE AZURE IN OUR PROJECT?
 
 
 
-  ! [version b] (https://azure.microsoft.com/en-us/solutions/industry/manufacturing/iot/#overview)
+  https://azure.microsoft.com/en-us/solutions/industry/manufacturing/iot/#overview
 
  
  # *PROJECT ESPECIFICATIONS*
